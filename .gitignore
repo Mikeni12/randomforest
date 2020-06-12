@@ -1,0 +1,4 @@
+# Project exclude paths
+/venv/
+.idea/vcs.xml
+__pycache__/
